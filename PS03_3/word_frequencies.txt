@@ -1,0 +1,1 @@
+The word apple appears 5 times in the file.
